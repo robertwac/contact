@@ -14,8 +14,8 @@
             "email": "robertkimaru1998@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "prefer-stable": true,
+  
+    
     "require": {},
     "extra": {
         "laravel": {
@@ -23,5 +23,7 @@
                 "Robert/Contact\\ContactServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability" : "dev",
+    "prefer-stable" : true
 }
