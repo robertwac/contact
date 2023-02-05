@@ -15,6 +15,13 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
-   
+    "prefer-stable": true,
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Robert/Contact\\ContactServiceProvider"
+            ]
+        }
+    }
 }
