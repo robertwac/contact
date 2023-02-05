@@ -1,0 +1,20 @@
+{
+    "name": "robert/contact",
+    "description": "learn package dev",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Robert\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "robertwac",
+            "email": "robertkimaru1998@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+   
+}
