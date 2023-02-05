@@ -20,10 +20,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Robert/Contact\\ContactServiceProvider"
+                "Robert/Contact/ContactServiceProvider"
             ]
         }
     },
-    "minimum-stability" : "dev",
-    "prefer-stable" : true
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
